@@ -1,0 +1,27 @@
+{
+    "window.zoomLevel": 0,
+    "eslint.codeAction.showDocumentation": {
+        "enable": true
+    },
+    "eslint.options": {
+        "extensions": [".js", ".jsx", ".md", ".mdx", ".vue", ".tsx"]
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "files.autoSave": "afterDelay",
+    "eslint.alwaysShowStatus": true,
+    "prettier.requireConfig": true,
+    "editor.formatOnSave": true,
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "CodeSandbox",
+    "editor.fontFamily": "'Dank Mono', monospace",
+    "editor.fontSize": 14
+}
